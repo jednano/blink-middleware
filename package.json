@@ -1,7 +1,8 @@
 {
   "name": "blink-middleware",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "Blink middleware for Express.",
+  "deprecated": true,
   "main": "js/lib/middleware.js",
   "scripts": {
     "test": "gulp test"
@@ -36,7 +37,6 @@
     "supertest": "^0.14.0"
   },
   "dependencies": {
-    "blink": "^4.0",
     "through2": "^0.6.3",
     "vinyl-fs": "^0.3.9"
   }

@@ -1,6 +1,8 @@
 #blink-middleware
 
-> [Blink](https://github.com/blinkjs/blink) middleware for Express.
+> **⚠️ DEPRECATED:** This package is no longer maintained.
+> The original [`blink`](https://www.npmjs.com/package/blink) package was sold.
+> This package will not receive updates and may no longer function as originally intended.
 
 [![Build Status][]](http://travis-ci.org/blinkjs/blink-middleware)
 [![Dependency Status][]](https://gemnasium.com/blinkjs/blink-middleware)
